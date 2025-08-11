@@ -41,7 +41,7 @@ The app allows users to:
 
 ## 📷 Screens
 
-<img width="392" height="822" alt="image" src="https://github.com/user-attachments/assets/2f9e645e-f8a3-487f-89dc-da7836bef3dd" />
+<img width="277" height="591" alt="image" src="https://github.com/user-attachments/assets/2f9e645e-f8a3-487f-89dc-da7836bef3dd" />
 <img width="277" height="591" alt="image" src="https://github.com/user-attachments/assets/433409f2-d236-4ad8-b524-d3a48a73e534" />
 
 
